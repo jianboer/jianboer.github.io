@@ -1,0 +1,34 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "air"
+
+title: "Jianbo Li"
+name: "Jianbo Li"
+description: "My name is Jianbo Li. I am an undergraduate student at Northwestern Polytechnical University, majoring in Software Engineering. Research interests: 3DV."
+url: "https://jianboer.github.io"
+baseurl: ""
+search: false
+breadcrumbs: false
+read_more: "disabled"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+author:
+  name: "Jianbo Li"
+  avatar: "https://avatars.githubusercontent.com/u/179502607?v=4"
+  bio: "My name is Jianbo Li. I am an undergraduate student at Northwestern Polytechnical University, majoring in Software Engineering. Research interests: 3DV."
+  location: "Chang'an District, Xi'an, Shaanxi, China"
+  links:
+    - label: "jianboer"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jianboer"
+    - label: "Northwestern Polytechnical University"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.nwpu.edu.cn/"
+    - label: "lijianbooo@mail.nwpu.edu.cn"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lijianbooo@mail.nwpu.edu.cn"
+    - label: "University Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.nwpu.edu.cn/"
